@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cristiane541
-- 👀 I’m interested in Java and DB rogramming
+- 👀 I’m interested in all kind of programmming language and in the right moment I am looking for a job in software development
 
 
 <!---
